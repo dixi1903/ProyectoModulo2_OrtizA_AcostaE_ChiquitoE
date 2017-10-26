@@ -1,0 +1,2 @@
+# ProyectoModulo2_OrtizA_AcostaE_ChiquitoE
+Proyecto módulo 2 simulación matemática
